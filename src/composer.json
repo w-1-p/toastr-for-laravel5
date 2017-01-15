@@ -1,0 +1,11 @@
+{
+    "name": "sam/toastr-for-laravel",
+    "description": "toastr.js for laravel5",
+    "authors": [
+        {
+            "name": "samwang",
+            "email": "wangyipingyouxiang@163.com"
+        }
+    ],
+    "require": {}
+}
