@@ -1,0 +1,16 @@
+{
+    "name": "sam/toastr-for-laravel",
+    "description": "toastr.js for laravel5",
+    "authors": [
+        {
+            "name": "sam",
+            "email": "wangyipingyouxiang@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Samwang\\Toastr\\": "src/"
+        }
+    }
+}
